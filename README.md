@@ -3,6 +3,7 @@
 Example project made with Godot 3.2
 … still working on a release. This is just here for linking and as a reminder for myself to not forget about it.
 
+![look_at_me](https://user-images.githubusercontent.com/52464204/73600862-0cf3d880-4557-11ea-860f-9bb1a4124abb.gif)
 ![look_at_controller](https://user-images.githubusercontent.com/52464204/71305410-cd709300-23d3-11ea-8b10-9dd4ff7778c7.gif)
 
 ## Features | Examples:

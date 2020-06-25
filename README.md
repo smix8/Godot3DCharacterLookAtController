@@ -4,7 +4,7 @@ Example project made with Godot 3.2
 … still working on a release. This is just here for linking and as a reminder for myself to not forget about it.
 
 Update:
-Turned out Godot has performance issues and bugs at the moment with direct skeleton bone manipulations. After waiting a few months for fixes I got tiered and made a guide how to achieve a similar lookat effect with blendshapes and animation poses (that has a tiny performance footprint):
+Turned out Godot has performance issues and bugs at the moment with direct skeleton bone manipulations. After waiting a few months for fixes I got tired and made a guide how to achieve a similar lookat effect with blendshapes and animation poses (that has a tiny performance footprint). I still might go back to this when things change.
 https://github.com/smix8/Godot_3D_Character_LookAt_Guide
 
 
